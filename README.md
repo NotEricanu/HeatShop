@@ -1,6 +1,3 @@
-Heat Item Shop tutorial
-
-
 ## ⚠️ **IMPORTANT INFO BEFORE YOU START** ⚠️  
 - You can get all Fortnite's Battle Royale cosmetics from **[Fortnite.GG](https://fortnite.gg/cosmetics)**.
 
