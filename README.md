@@ -103,7 +103,7 @@ ItemType:CosmeticID
    - Quickly check if your formatting is correct before testing in-game.  
 
 
-How can your Item Shop be picked? Dm me on discord your item shop and i will pick one.
+How can your Item Shop be picked? Open an issue on this repo and i will pick one.
 (Credits to Eon/Rio for this README.md, because i was too lazy to do it my self)
 
-Dm me on discord with your itemshop.json for me to pick your item shop.
+Create an issue on this github repo with your itemshop.json for me to pick your item shop.
