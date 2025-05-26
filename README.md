@@ -2,7 +2,7 @@
 - You can get all Fortnite's Battle Royale cosmetics from **[Fortnite.GG](https://fortnite.gg/cosmetics)**.
 
 ### 🔑 **Requirements for Cosmetics to Work**
-1. **Cosmetics must be from Chapter 2 Season 2 (Version 12.41) or earlier, Anything newer won’t work.**
+1. **Cosmetics must be from Chapter 2 Season 5 (Version 15.30) or earlier, Anything newer won’t work.**
 2. **Set prices according to Fortnite’s original V-Bucks pricing.**  
 3. **Follow the correct Cosmetic ID format.**  *Incorrect formatting will break the shop.**
 
@@ -84,7 +84,7 @@ ItemType:CosmeticID
 🔴 **DON’T:**  
 - ❌ Forget double quotes around your **Cosmetic ID**. Example: `AthenaCharacter:Character_HeatLol` → `"AthenaCharacter:Character_HeatLol"`  
 - ❌ Add commas to numbers. Use `1200`, not `1,200`.  
-- ❌ Use cosmetics from versions after **Chapter 2 Season 2** (*they won’t work.*)
+- ❌ Use cosmetics from versions after **Chapter 2 Season 5** (*they won’t work.*)
 
 ✅ **DO:**  
 - ✔️ Double-check every **Cosmetic ID** format.  
@@ -103,7 +103,7 @@ ItemType:CosmeticID
    - Quickly check if your formatting is correct before testing in-game.  
 
 
-How can your Item Shop be picked? Open an issue on this repo and i will pick one.
+How can your Item Shop be picked? Open an issue on this repo and i will pick one or post it in #suggestions on out Discord server.
 (Credits to Eon/Rio for this README.md, because i was too lazy to do it my self)
 
 Create an issue on this github repo with your itemshop.json for me to pick your item shop.
