@@ -106,4 +106,4 @@ ItemType:CosmeticID
 How can your Item Shop be picked? Open an issue on this repo and i will pick one or post it in #suggestions on out Discord server.
 (Credits to Eon/Rio for this README.md, because i was too lazy to do it my self)
 
-Create an issue on this github repo with your itemshop.json for me to pick your item shop.
+Create an issue on this github repo with your itemshop.json or just send it in our #suggetions in the Discord server for me to pick your item shop.
